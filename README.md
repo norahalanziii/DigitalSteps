@@ -163,23 +163,6 @@ Launch → Welcome Screen → After Welcome
 
 ---
 
-## 👩‍💻 Team
-
-| Name | Role |
-|---|---|
-| Norah H. Al-Anzi | Developer |
-| Nada B. Al-Rshidi | Developer |
-| Wajood Kh. Al-Jearah | Developer |
-| Sarah A. Alhethily | Developer |
-| Renad Alkahtani | Developer |
-| Waad Alshammeri | Developer |
-| Miad Alosaimi | Developer |
-
-**Instructors:** L. Reem Alshammari · L. Nourah Alqahtani · L. Raja Alyafer  
-**Institution:** Imam Abdulrahman Bin Faisal University — College of Science and Humanities, Computer Science Department
-
----
-
 ## 📄 License
 
 This project was developed for academic purposes as part of the OOP (2) course project, Second Semester 2023/2024.
